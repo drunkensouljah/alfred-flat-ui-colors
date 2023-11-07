@@ -26,10 +26,14 @@
   ],
   "scripts": {
     "postinstall": "alfy-init",
+    "precommit-msg": "echo 'Pre-commit checks...' && exit 0",
     "lint": "xo --fix",
     "test": "xo && ava",
     "preuninstall": "alfy-cleanup"
   },
+  "pre-commit": [
+    "precommit-msg", "lint", "test"
+  ],
   "dependencies": {
     "alfy": "^1.1.0",
     "flat-colors-js": "^1.0.5"
@@ -37,6 +41,7 @@
   "devDependencies": {
     "alfy-test": "^0.4.2",
     "ava": "^5.3.1",
+    "pre-commit": "^1.2.2",
     "xo": "^0.56.0"
   }
 }
