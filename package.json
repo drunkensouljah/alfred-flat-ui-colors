@@ -1,0 +1,42 @@
+{
+  "name": "alfred-flat-ui-colors",
+  "version": "0.0.1",
+  "description": "An Alfred Workflow to get Flat UI Colors fast",
+  "keywords": [
+    "alfred",
+    "workflow",
+    "alfy",
+    "flatui"
+  ],
+  "homepage": "https://github.com/drunkensouljah/alfred-flat-ui-colors#readme",
+  "bugs": {
+    "url": "https://github.com/drunkensouljah/alfred-flat-ui-colors/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drunkensouljah/alfred-flat-ui-colors.git"
+  },
+  "license": "MIT",
+  "author": "Daniel Blatt",
+  "type": "module",
+  "files": [
+    "index.js",
+    "icon.png",
+    "info.plist"
+  ],
+  "scripts": {
+    "postinstall": "alfy-init",
+    "lint": "xo --fix",
+    "test": "xo && ava",
+    "preuninstall": "alfy-cleanup"
+  },
+  "dependencies": {
+    "alfy": "^1.1.0",
+    "flat-colors-js": "^1.0.5"
+  },
+  "devDependencies": {
+    "alfy-test": "^0.4.2",
+    "ava": "^5.3.1",
+    "xo": "^0.56.0"
+  }
+}
