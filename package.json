@@ -32,11 +32,12 @@
     "preuninstall": "alfy-cleanup"
   },
   "pre-commit": [
-    "precommit-msg", "lint", "test"
+    "precommit-msg",
+    "lint",
+    "test"
   ],
   "dependencies": {
-    "alfy": "^1.1.0",
-    "flat-colors-js": "^1.0.5"
+    "alfy": "^1.1.0"
   },
   "devDependencies": {
     "alfy-test": "^0.4.2",
