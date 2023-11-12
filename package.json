@@ -22,12 +22,13 @@
   "files": [
     "index.js",
     "icon.png",
-    "info.plist"
+    "info.plist",
+    "palettes.json"
   ],
   "scripts": {
     "postinstall": "alfy-init",
-    "precommit-msg": "echo 'Pre-commit checks...' && exit 0",
     "lint": "xo --fix",
+    "precommit-msg": "echo 'Pre-commit checks...' && exit 0",
     "test": "xo && ava",
     "preuninstall": "alfy-cleanup"
   },
