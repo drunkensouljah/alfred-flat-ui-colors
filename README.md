@@ -75,6 +75,7 @@ This project is [MIT](https://github.com/drunkensouljah/alfred-flat-ui-colors/bl
 This open source project was made possible with the help of the following individuals, libraries, and resources:
 
 * [Palettes | Flat UI Colors 🎨 280 handpicked colors ready for COPY & PASTE](https://flatuicolors.com/)
-* [flat-colors-js - npm](https://www.npmjs.com/package/flat-colors-js)
-* [Alfred - Productivity App for macOS](https://www.alfredapp.com/)
+* palette.js generated with [akx/flat-ui-colors-json](https://github.com/akx/flat-ui-colors-json)
 * [sindresorhus/alfy: Create Alfred workflows with ease](https://github.com/sindresorhus/alfy)
+
+* [Alfred - Productivity App for macOS](https://www.alfredapp.com/)

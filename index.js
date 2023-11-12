@@ -1,13 +1,14 @@
+import fs from 'node:fs';
 import alfy from 'alfy';
-import {getPalette} from 'flat-colors-js';
 
-const flatColors = await getPalette('default');
+const data = JSON.parse(fs.readFileSync('./palettes.json', 'utf8'));
 
-const items = flatColors.map(color => ({
+const items = data.flatMap(element => element.colors.map(color => ({
 	title: color.name,
+	subtitle: color.hex,
 	arg: color.hex,
-	var: color.hex,
-}));
+})));
 
-alfy.output(items);
+const filteredItems = alfy.inputMatches(items, 'title');
 
+alfy.output(filteredItems);
