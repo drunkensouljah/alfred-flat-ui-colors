@@ -11,9 +11,6 @@ test('main', async t => {
 			title: 'EMERALD',
 			subtitle: '#2ecc71',
 			arg: '#2ecc71',
-			icon: {
-				path: './images/EMERALD.png',
-			},
 		},
 	]);
 });

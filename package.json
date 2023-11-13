@@ -38,8 +38,7 @@
     "test"
   ],
   "dependencies": {
-    "alfy": "^1.1.0",
-    "jimp": "^0.22.10"
+    "alfy": "^1.1.0"
   },
   "devDependencies": {
     "alfy-test": "^0.4.2",
