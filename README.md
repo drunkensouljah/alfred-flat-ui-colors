@@ -25,7 +25,11 @@ npm install --global alfred-flat-ui-colors
 
 ## Usage
 
-In Alfred, type `flat`, <kbd>Enter</kbd>, and your query.
+In Alfred, type `flat` and press <kbd>Enter</kbd>. To find a specific color, enter a query with a color name. The chosen color's hex code will be copied to your clipboard and pasted into the frontmost app.
+
+<p align="center">
+    <img width="700" src="screenshot.gif" alt="Screenshot of the Flat UI Color Workflow for Alfred (Version 0.0.1)">
+</p>
 
 ## Development
 
