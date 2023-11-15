@@ -11,6 +11,16 @@ test('main', async t => {
 			subtitle: '🎨 Flat UI Palette v1',
 			arg: '#2ecc71',
 			autocomplete: 'EMERALD',
+			mods: {
+				alt: {
+					arg: 'rgb(46,204,113)',
+					subtitle: 'rgb(46,204,113)',
+				},
+				cmd: {
+					arg: '#2ecc71',
+					subtitle: '#2ecc71',
+				},
+			},
 			icon: {
 				path: './images/EMERALD.png',
 			},
