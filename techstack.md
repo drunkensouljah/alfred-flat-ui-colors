@@ -1,30 +1,34 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 drunkensouljah/alfred-flat-ui-colors is built on the following main stack:
+
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - [pre-commit](http://jish.github.io/pre-commit/) – Git Tools
 - [React Navigation](https://reactnavigation.org/) – Cross-Platform Mobile Tools
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 drunkensouljah/alfred-flat-ui-colors is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='pre-commit'/> [pre-commit](http://jish.github.io/pre-commit/) – Git Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/6422/react-navigation.png' alt='React Navigation'/> [React Navigation](https://reactnavigation.org/) – Cross-Platform Mobile Tools
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [drunkensouljah/alfred-flat-ui-colors](https://github.com/drunkensouljah/alfred-flat-ui-colors)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|8<br/>Tools used|11/09/23 <br/>Report generated|
+|9<br/>Tools used|12/14/23 <br/>Report generated|
 |------|------|
 </div>
 
@@ -70,12 +74,20 @@ Full tech stack [here](/techstack.md)
 </tr>
 </table>
 
-## Other (1)
+## Other (2)
 <table><tr>
   <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/6422/react-navigation.png' alt='React Navigation'>
   <br>
   <sub><a href="https://reactnavigation.org/">React Navigation</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/4535/no-img-open-source.png' alt='xo'>
+  <br>
+  <sub><a href="https://www.npmjs.com/package/xo">xo</a></sub>
   <br>
   <sub></sub>
 </td>
@@ -90,11 +102,11 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[alfy](https://www.npmjs.com/alfy)|v1.1.0|11/07/23|Daniel Blatt |MIT|N/A|
+|[alfy](https://www.npmjs.com/alfy)|v1.1.0|11/13/23|Daniel Blatt |MIT|N/A|
 |[ava](https://www.npmjs.com/ava)|v5.3.1|11/07/23|Daniel Blatt |MIT|N/A|
-|[xo](https://www.npmjs.com/xo)|v0.56.0|11/07/23|Daniel Blatt |MIT|N/A|
+|[jimp](https://www.npmjs.com/jimp)|v0.22.10|11/13/23|Daniel Blatt |MIT|N/A|
 
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
