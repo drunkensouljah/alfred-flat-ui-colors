@@ -28,7 +28,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [drunkensouljah/alfred-flat-ui-colors](https://github.com/drunkensouljah/alfred-flat-ui-colors)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|9<br/>Tools used|12/14/23 <br/>Report generated|
+|10<br/>Tools used|01/04/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -96,15 +96,16 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (3)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (4)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (3)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (4)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
 |[alfy](https://www.npmjs.com/alfy)|v1.1.0|11/13/23|Daniel Blatt |MIT|N/A|
 |[ava](https://www.npmjs.com/ava)|v5.3.1|11/07/23|Daniel Blatt |MIT|N/A|
 |[jimp](https://www.npmjs.com/jimp)|v0.22.10|11/13/23|Daniel Blatt |MIT|N/A|
+|[xo](https://www.npmjs.com/xo)|v0.56.0|11/07/23|Daniel Blatt |MIT|N/A|
 
 <br/>
 <div align='center'>
