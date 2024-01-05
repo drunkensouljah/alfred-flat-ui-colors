@@ -1,0 +1,135 @@
+repo_name: drunkensouljah/alfred-flat-ui-colors
+report_id: ad39cb1abf7fe53d820d4a5265290a1f
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-05T09:09:07+00:00'
+requested_by: drunkensouljah
+provider: github
+branch: main
+detected_tools_count: 10
+tools:
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/drunkensouljah/alfred-flat-ui-colors
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/drunkensouljah/alfred-flat-ui-colors
+  detection_source: Repo Metadata
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/drunkensouljah/alfred-flat-ui-colors/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Daniel Blatt
+  last_updated_on: 2023-11-07 20:38:54.000000000 Z
+- name: pre-commit
+  description: A slightly improved pre-commit hook for git
+  website_url: http://jish.github.io/pre-commit/
+  version: 1.2.2
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Git Tools
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/drunkensouljah/alfred-flat-ui-colors/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Daniel Blatt
+  last_updated_on: 2023-11-12 14:10:30.000000000 Z
+- name: React Navigation
+  description: Flexible navigation library for React Native and web. Learn once, navigate
+    anywhere.
+  website_url: https://reactnavigation.org/
+  open_source: false
+  hosted_saas: false
+  category: Mobile
+  sub_category: Cross-Platform Mobile Tools
+  image_url: https://img.stackshare.io/service/6422/react-navigation.png
+  detection_source_url: https://github.com/drunkensouljah/alfred-flat-ui-colors/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Daniel Blatt
+  last_updated_on: 2023-11-07 20:38:54.000000000 Z
+- name: xo
+  description: Zero configuration fixer and linter for javascript code.
+  website_url: https://www.npmjs.com/package/xo
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/4535/no-img-open-source.png
+  detection_source_url: https://github.com/drunkensouljah/alfred-flat-ui-colors/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Daniel Blatt
+  last_updated_on: 2023-11-07 20:38:54.000000000 Z
+- name: alfy
+  description: Create Alfred workflows with ease
+  package_url: https://www.npmjs.com/alfy
+  version: 1.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18748/default_1f93b00a0aa6ebc30a3a7957359f1ee2067b51e1.png
+  detection_source_url: https://github.com/drunkensouljah/alfred-flat-ui-colors/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Daniel Blatt
+  last_updated_on: 2023-11-13 19:28:12.000000000 Z
+- name: ava
+  description: Testing can be a drag. AVA helps you get it done
+  package_url: https://www.npmjs.com/ava
+  version: 5.3.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15883/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
+  detection_source_url: https://github.com/drunkensouljah/alfred-flat-ui-colors/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Daniel Blatt
+  last_updated_on: 2023-11-07 20:38:54.000000000 Z
+- name: jimp
+  description: An image processing library written entirely in JavaScript
+  package_url: https://www.npmjs.com/jimp
+  version: 0.22.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16902/default_3260e41a86e21f9dd1deddcf0a6e09720ec49021.png
+  detection_source_url: https://github.com/drunkensouljah/alfred-flat-ui-colors/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Daniel Blatt
+  last_updated_on: 2023-11-13 19:28:12.000000000 Z
+- name: xo
+  description: JavaScript linter with great defaults
+  package_url: https://www.npmjs.com/xo
+  version: 0.56.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16016/default_261820f5687b4c88a3e8f95c71b5e8dccd34c1d7.png
+  detection_source_url: https://github.com/drunkensouljah/alfred-flat-ui-colors/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Daniel Blatt
+  last_updated_on: 2023-11-07 20:38:54.000000000 Z
